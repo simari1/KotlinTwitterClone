@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554865897284",
+    "project_id": "kotlintwitterclone",
+    "storage_bucket": "kotlintwitterclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554865897284:android:d013768a20f435d1b23111",
+        "android_client_info": {
+          "package_name": "com.simari1.kotlintwitterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554865897284-6dhj5iqm17ei0cah1h5c8e0a99k00gap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwYLN9orJ9VRVK8NZn219W4F2qt-0qck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554865897284-6dhj5iqm17ei0cah1h5c8e0a99k00gap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
