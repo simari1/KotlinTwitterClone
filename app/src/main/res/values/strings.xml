@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KotlinTwitterClone</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="description_logo">Logo</string>
+    <string name="button_login">login</string>
+    <string name="text_signup">No account? Go to Signup</string>
 </resources>

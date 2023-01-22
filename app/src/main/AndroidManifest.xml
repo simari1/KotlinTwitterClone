@@ -13,7 +13,7 @@
         android:theme="@style/Theme.KotlinTwitterClone"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".LoginActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.NoActionBar"
